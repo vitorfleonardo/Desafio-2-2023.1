@@ -29,3 +29,4 @@ Para realizar este desafio, você deverá realizar um fork deste repositório pa
 - A entrega do desafio deve ser realizada através de uma Release no GitHub.
 - Somente o link para a release deve ser enviado por e-mail.
 - O candidato não deve excluir o repositório
+- O desafio deverá ser entregue até no máximo 02/05 às 23:59
