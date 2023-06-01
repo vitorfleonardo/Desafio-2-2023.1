@@ -11,7 +11,7 @@ Você deve realizar um fork deste repositório para sua conta pessoal no GitHub.
 - A tela deve ser implementada de acordo com o layout.
   - O figma apresenta três versões do mesmo layout, você pode escolher qualquer um deles para implementar.
 - Os links para o instagram, linkedin, email e whatsapp deverão estar funcionando. (dica: leia [esse artigo](https://faq.whatsapp.com/5913398998672934) para criar o link para o whatsapp)
-- Nos cards dos serviços da empresa, procure um ícone que represente o serviço e coloque-o no lugar do +
+- Nos cards dos serviços da empresa, procure um ícone que represente o serviço e coloque-o no lugar do +. (dica: Procure ícones em sites esecializados como [esse](https://www.flaticon.com/br/)
 
 ## Requisitos não-funcionais
 
