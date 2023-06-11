@@ -78,13 +78,16 @@ body {
 }
 
 #equipe {
-  width: 581px;
+  width: 100%;
 }
 
 .conteudo1 {
   margin-left: 48px;
   margin-right: 32px;
   color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 /*servicos.html*/
