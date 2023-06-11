@@ -20,7 +20,7 @@ Você deve realizar um fork deste repositório para sua conta pessoal no GitHub.
 - O código do projeto deve ser organizado, indentado e legível. Tão importante quanto um programa funcional é um código fonte fácil de modificar e entender.
 - A tela deve manter sua organização em resoluções diferentes. (dica: lembre-se do conteúdo apresentado no curso como flexbox, grid, media query e development tools)
 
-## Entrega
+## Entrega [(clique aqui para ver a entrega!)](https://vitorfleonardo.github.io/Desafio-2-2023.1/)
 
 - A entrega do desafio deve ser realizada através de uma Release no GitHub.
   - Crie a release no seu repositório pessoal e envie o zip pelo google classroom.
