@@ -33,6 +33,7 @@ body {
   justify-content: right;
   gap: 25px;
   align-items: center;
+  margin-right: 20px;
 }
 
 #topbar p {
